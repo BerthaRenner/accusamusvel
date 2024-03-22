@@ -1,0 +1,55 @@
+{
+  "name": "accusamusvel",
+  "version": "1.0.0",
+  "description": "Manage hierarchical deterministic keychain for bitcoin and altcoins.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BayleeBahringer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerthaRenner/accusamusvel.git"
+  },
+  "keywords": [
+    "hd wallet",
+    "modi",
+    "pariatur",
+    "hierarchical deterministic",
+    "sit",
+    "ea",
+    "altcoin",
+    "crypto currency",
+    "ethereum",
+    "aperiam",
+    "iure",
+    "quae",
+    "et",
+    "voluptatem",
+    "mollitia",
+    "ltc",
+    "dash",
+    "dsh",
+    "libero",
+    "bitconnect",
+    "illum",
+    "neo",
+    "monero",
+    "xmr",
+    "enim",
+    "iot",
+    "fuga",
+    "etc"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^2.4.0",
+    "block-hash": "^1.0.0",
+    "coinkey": "^2.0.0",
+    "crypto": "^1.0.1",
+    "hdkey": "^0.7.1"
+  }
+}
